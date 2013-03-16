@@ -1,15 +1,4 @@
 {
-    "ru": {
-        "reviewed_percentage": "0%",
-        "completed": "9%",
-        "untranslated_words": 125,
-        "last_commiter": "alanwww1",
-        "reviewed": 0,
-        "translated_entities": 1,
-        "translated_words": 2,
-        "last_update": "2013-03-16 10:56:38",
-        "untranslated_entities": 10
-    },
     "en": {
         "reviewed_percentage": "0%",
         "completed": "100%",
@@ -18,7 +7,7 @@
         "reviewed": 0,
         "translated_entities": 11,
         "translated_words": 127,
-        "last_update": "2013-03-16 10:48:10",
+        "last_update": "2013-03-16 12:49:48",
         "untranslated_entities": 0
     },
     "hu": {
@@ -29,7 +18,7 @@
         "reviewed": 0,
         "translated_entities": 11,
         "translated_words": 127,
-        "last_update": "2013-03-16 10:48:12",
+        "last_update": "2013-03-16 12:49:50",
         "untranslated_entities": 0
     }
 }

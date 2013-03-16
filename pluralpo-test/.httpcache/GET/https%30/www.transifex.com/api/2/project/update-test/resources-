@@ -40,5 +40,12 @@
         "source_language_code": "en",
         "slug": "pluralpo-test",
         "name": "pluralpo-test"
+    },
+    {
+        "category": null,
+        "i18n_type": "PO",
+        "source_language_code": "en",
+        "slug": "pluralpo-test_gotham",
+        "name": "pluralpo-test_gotham"
     }
 ]

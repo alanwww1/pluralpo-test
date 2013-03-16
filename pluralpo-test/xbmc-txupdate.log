@@ -1,98 +1,152 @@
 XBMC-TXUPDATE v0.91 Logfile
 
-2013-03-16 10:52+0000	INFO	Root Directory: pluralpo-test/
-2013-03-16 10:52+0000	INFO	HTTPHandler: Succesfuly found the .passwsords.xml file: pluralpo-test/.passwords.xml
-2013-03-16 10:52+0000	INFO	HTTPHandler: found login credentials for website prefix: https://www.transifex.com/api/2/project/
-2013-03-16 10:52+0000	INFO	HTTPHandler: Cache directory set to: pluralpo-test/.httpcache
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: Succesfuly found the update.xml file in the specified project directory
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: Found projectname in xbmc-txupdate.xml file: update-test
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: Found http cache expire time in xbmc-txupdate.xml file: 99440
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: Found min completion percentage in xbmc-txupdate.xml file: 10%
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: No merged language file directory specified in xbmc-txupdate.xml file. Using default value: merged-langfiles
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: No temp tx update language file directory specified in xbmc-txupdate.xml file. Using default value: tempfiles_txupdate
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: Found support email address in xbmc-txupdate.xml file: alanwww1@xbmc.org
-2013-03-16 10:52+0000	INFO	UpdXMLHandler: found resource in update.xml file: pluralpo.test, Type: skin, SubDir: 
-2013-03-16 10:52+0000	INFO	LCodeHandler: Succesfully fetched 276 language codes from Transifex
+2013-03-16 13:02+0000	INFO	Root Directory: pluralpo-test/
+2013-03-16 13:02+0000	INFO	HTTPHandler: Succesfuly found the .passwsords.xml file: pluralpo-test/.passwords.xml
+2013-03-16 13:02+0000	INFO	HTTPHandler: found login credentials for website prefix: https://www.transifex.com/api/2/project/
+2013-03-16 13:02+0000	INFO	HTTPHandler: Cache directory set to: pluralpo-test/.httpcache
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: Succesfuly found the update.xml file in the specified project directory
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: Found projectname in xbmc-txupdate.xml file: update-test
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: Found http cache expire time in xbmc-txupdate.xml file: 1
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: Found min completion percentage in xbmc-txupdate.xml file: 10%
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: No merged language file directory specified in xbmc-txupdate.xml file. Using default value: merged-langfiles
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: No temp tx update language file directory specified in xbmc-txupdate.xml file. Using default value: tempfiles_txupdate
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: Found support email address in xbmc-txupdate.xml file: alanwww1@xbmc.org
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: found resource in update.xml file: pluralpo.test, Type: skin, SubDir: 
+2013-03-16 13:02+0000	INFO	UpdXMLHandler: found resource in update.xml file: pluralpo.test_gotham, Type: skin, SubDir: 
+2013-03-16 13:02+0000	INFO	HTTPHandler: curlURLToCache finished with success from URL https://raw.github.com/transifex/transifex/master/transifex/languages/fixtures/all_languages.json to cachefile pluralpo-test/.httpcache/GET/https%30//raw.github.com/transifex/transifex/master/transifex/languages/fixtures/all_languages.json, read filesize: 125044bytes
+2013-03-16 13:02+0000	INFO	LCodeHandler: Succesfully fetched 276 language codes from Transifex
+2013-03-16 13:02+0000	INFO	HTTPHandler: Cache directory set to: pluralpo-test/.httpcache
 
-2013-03-16 10:52+0000	INFO	****************************************
-2013-03-16 10:52+0000	INFO	DOWNLOADING RESOURCES FROM TRANSIFEX.NET
-2013-03-16 10:52+0000	INFO	****************************************
-2013-03-16 10:52+0000	INFO	HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resources/ to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resources-, read filesize: 1047bytes
-2013-03-16 10:52+0000	INFO	JSONHandler: found resource on Transifex server: something-something
-2013-03-16 10:52+0000	INFO	JSONHandler: found resource on Transifex server: visualization-projectm
-2013-03-16 10:52+0000	INFO	JSONHandler: found resource on Transifex server: script-xbmc-subtitles
-2013-03-16 10:52+0000	INFO	JSONHandler: found resource on Transifex server: xbmc-core
-2013-03-16 10:52+0000	INFO	JSONHandler: found resource on Transifex server: testplugin
-2013-03-16 10:52+0000	INFO	JSONHandler: found resource on Transifex server: pluralpo-test
-2013-03-16 10:52+0000	INFO	JSONHandler: Found 6 resources at Transifex server
+2013-03-16 13:02+0000	INFO	****************************************
+2013-03-16 13:02+0000	INFO	DOWNLOADING RESOURCES FROM TRANSIFEX.NET
+2013-03-16 13:02+0000	INFO	****************************************
+2013-03-16 13:02+0000	INFO	HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resources/ to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resources-, read filesize: 1230bytes
+2013-03-16 13:02+0000	INFO	JSONHandler: found resource on Transifex server: something-something
+2013-03-16 13:02+0000	INFO	JSONHandler: found resource on Transifex server: visualization-projectm
+2013-03-16 13:02+0000	INFO	JSONHandler: found resource on Transifex server: script-xbmc-subtitles
+2013-03-16 13:02+0000	INFO	JSONHandler: found resource on Transifex server: xbmc-core
+2013-03-16 13:02+0000	INFO	JSONHandler: found resource on Transifex server: testplugin
+2013-03-16 13:02+0000	INFO	JSONHandler: found resource on Transifex server: pluralpo-test
+2013-03-16 13:02+0000	INFO	JSONHandler: found resource on Transifex server: pluralpo-test_gotham
+2013-03-16 13:02+0000	INFO	JSONHandler: Found 7 resources at Transifex server
 
-2013-03-16 10:52+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: something-something
-2013-03-16 10:52+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: something-something
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: something-something
+2013-03-16 13:02+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: something-something
 
-2013-03-16 10:52+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: visualization-projectm
-2013-03-16 10:52+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: visualization-projectm
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: visualization-projectm
+2013-03-16 13:02+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: visualization-projectm
 
-2013-03-16 10:52+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: script-xbmc-subtitles
-2013-03-16 10:52+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: script-xbmc-subtitles
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: script-xbmc-subtitles
+2013-03-16 13:02+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: script-xbmc-subtitles
 
-2013-03-16 10:52+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: xbmc-core
-2013-03-16 10:52+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: xbmc-core
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: xbmc-core
+2013-03-16 13:02+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: xbmc-core
 
-2013-03-16 10:52+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: testplugin
-2013-03-16 10:52+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: testplugin
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: testplugin
+2013-03-16 13:02+0000	WARNING	    ProjHandler: found resource on Transifex which is not in xbmc-txupdate.xml: testplugin
 
-2013-03-16 10:52+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: pluralpo-test
-2013-03-16 10:52+0000	INFO	    ResHandler: Starting to load resource from TX URL: https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/ into memory
-2013-03-16 10:52+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/stats/ to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test/stats-, read filesize: 648bytes
-2013-03-16 10:52+0000	INFO	    JSONHandler: ParseAvailLangs: Languages to be Fetcehed: en: 100%, hu: 100%, 
-2013-03-16 10:52+0000	INFO	    JSONHandler: ParseAvailLangs: Languages to be Dropped (not enough completion): 
-2013-03-16 10:52+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/en/?file to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/en/%3efile, read filesize: 2635bytes
-2013-03-16 10:52+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/hu/?file to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/hu/%3efile, read filesize: 2462bytes
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    FetchPOFilesTX:	Lang		IDEntry		ClassEntry
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    			en		5		6
-2013-03-16 10:52+0000	INFO	    			hu		5		6
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: pluralpo-test
+2013-03-16 13:02+0000	INFO	    ResHandler: Starting to load resource from TX URL: https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/ into memory
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/stats/ to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test/stats-, read filesize: 973bytes
+2013-03-16 13:02+0000	INFO	    JSONHandler: ParseAvailLangs: Languages to be Fetcehed: en: 100%, hu: 100%, ru: 9%, 
+2013-03-16 13:02+0000	INFO	    JSONHandler: ParseAvailLangs: Languages to be Dropped (not enough completion): 
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/en/?file to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/en/%3efile, read filesize: 2635bytes
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/hu/?file to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/hu/%3efile, read filesize: 2462bytes
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/ru/?file to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/ru/%3efile, read filesize: 2090bytes
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    FetchPOFilesTX:	Lang		IDEntry		ClassEntry
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		6
+2013-03-16 13:02+0000	INFO	    			hu		5		6
+2013-03-16 13:02+0000	INFO	    			ru		5		6
 
-2013-03-16 10:52+0000	INFO	***********************************
-2013-03-16 10:52+0000	INFO	DOWNLOADING RESOURCES FROM UPSTREAM
-2013-03-16 10:52+0000	INFO	***********************************
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from TRANSIFEX: pluralpo-test_gotham
+2013-03-16 13:02+0000	INFO	    ResHandler: Starting to load resource from TX URL: https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test_gotham/ into memory
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test_gotham/stats/ to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test_gotham/stats-, read filesize: 648bytes
+2013-03-16 13:02+0000	INFO	    JSONHandler: ParseAvailLangs: Languages to be Fetcehed: en: 100%, hu: 100%, 
+2013-03-16 13:02+0000	INFO	    JSONHandler: ParseAvailLangs: Languages to be Dropped (not enough completion): 
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test_gotham/translation/en/?file to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test_gotham/translation/en/%3efile, read filesize: 2635bytes
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test_gotham/translation/hu/?file to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test/resource/pluralpo-test_gotham/translation/hu/%3efile, read filesize: 2462bytes
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    FetchPOFilesTX:	Lang		IDEntry		ClassEntry
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		6
+2013-03-16 13:02+0000	INFO	    			hu		5		6
 
-2013-03-16 10:52+0000	INFO	ProjHandler: ****** FETCH Resource from UPSTREAM: pluralpo.test ******
-2013-03-16 10:52+0000	INFO	    ResHandler: Starting to load resource from Upsream URL: https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/ into memory
-2013-03-16 10:52+0000	INFO	    ResHandler: using language list dwonloaded with github API
-2013-03-16 10:52+0000	INFO	    -----------------------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    FetchPOFilesUpstr:	Lang		IDEntry		ClassEntry	CommEntry
-2013-03-16 10:52+0000	INFO	    -----------------------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    			en		5		4		0
-2013-03-16 10:52+0000	INFO	    			hu		5		4		0
+2013-03-16 13:02+0000	INFO	***********************************
+2013-03-16 13:02+0000	INFO	DOWNLOADING RESOURCES FROM UPSTREAM
+2013-03-16 13:02+0000	INFO	***********************************
 
-2013-03-16 10:52+0000	INFO	*****************
-2013-03-16 10:52+0000	INFO	MERGING RESOURCES
-2013-03-16 10:52+0000	INFO	*****************
-2013-03-16 10:52+0000	INFO	CreateMergedResources started
-2013-03-16 10:52+0000	INFO	CreateMergedResources: Merging resource:pluralpo.test
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    MergedPOHandler:	Lang		mergedID	mergedClass	updID		updClass
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    			en		5		4		5		6
-2013-03-16 10:52+0000	INFO	    			hu		5		4		0		0
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from UPSTREAM: pluralpo.test ******
+2013-03-16 13:02+0000	INFO	    ResHandler: Starting to load resource from Upsream URL: https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/ into memory
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/addon.xml to cachefile pluralpo-test/.httpcache/GET/https%30//raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/addon.xml, read filesize: 1745bytes
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/changelog.txt to cachefile pluralpo-test/.httpcache/GET/https%30//raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/changelog.txt, read filesize: 4938bytes
+2013-03-16 13:02+0000	INFO	    ResHandler: using language list dwonloaded with github API
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://api.github.com/repos/alanwww1/pluralpo-test/contents/pluralpo-test/upstream/language?ref=master to cachefile pluralpo-test/.httpcache/GET/https%30//api.github.com/repos/alanwww1/pluralpo-test/contents/pluralpo-test/upstream/language%3eref=master, read filesize: 1623bytes
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/language/English/strings.po to cachefile pluralpo-test/.httpcache/GET/https%30//raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/language/English/strings.po, read filesize: 1121bytes
+2013-03-16 13:02+0000	INFO	    HTTPHandler: curlURLToCache finished with success from URL https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/language/Hungarian/strings.po to cachefile pluralpo-test/.httpcache/GET/https%30//raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/language/Hungarian/strings.po, read filesize: 1246bytes
+2013-03-16 13:02+0000	INFO	    -----------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    FetchPOFilesUpstr:	Lang		IDEntry		ClassEntry	CommEntry
+2013-03-16 13:02+0000	INFO	    -----------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		4		0
+2013-03-16 13:02+0000	INFO	    			hu		5		4		0
 
-2013-03-16 10:52+0000	INFO	********************************************
-2013-03-16 10:52+0000	INFO	WRITING MERGED AND TXUPDATE RESOURCES TO HDD
-2013-03-16 10:52+0000	INFO	********************************************
-2013-03-16 10:52+0000	INFO	Deleting merged language file directory
+2013-03-16 13:02+0000	INFO	ProjHandler: ****** FETCH Resource from UPSTREAM: pluralpo.test_gotham ******
+2013-03-16 13:02+0000	INFO	    ResHandler: Starting to load resource from Upsream URL: https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/ into memory
+2013-03-16 13:02+0000	INFO	    ResHandler: using language list dwonloaded with github API
+2013-03-16 13:02+0000	INFO	    -----------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    FetchPOFilesUpstr:	Lang		IDEntry		ClassEntry	CommEntry
+2013-03-16 13:02+0000	INFO	    -----------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		4		0
+2013-03-16 13:02+0000	INFO	    			hu		5		4		0
 
-2013-03-16 10:52+0000	INFO	ProjHandler: *** Write Merged Resource: pluralpo.test ***
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    WritePOFiles:	Lang		IDEntry		ClassEntry
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    			en		5		4
-2013-03-16 10:52+0000	INFO	    			hu		5		4
-2013-03-16 10:52+0000	INFO	Deleting tx update language file directory
+2013-03-16 13:02+0000	INFO	*****************
+2013-03-16 13:02+0000	INFO	MERGING RESOURCES
+2013-03-16 13:02+0000	INFO	*****************
+2013-03-16 13:02+0000	INFO	CreateMergedResources started
+2013-03-16 13:02+0000	INFO	CreateMergedResources: Merging resource:pluralpo.test
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    MergedPOHandler:	Lang		mergedID	mergedClass	updID		updClass
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		4		5		6
+2013-03-16 13:02+0000	INFO	    			hu		5		4		0		0
+2013-03-16 13:02+0000	INFO	    			ru		1		2		0		0
+2013-03-16 13:02+0000	INFO	CreateMergedResources: Merging resource:pluralpo.test_gotham
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    MergedPOHandler:	Lang		mergedID	mergedClass	updID		updClass
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		4		5		6
+2013-03-16 13:02+0000	INFO	    			hu		5		4		0		0
 
-2013-03-16 10:52+0000	INFO	ProjHandler: *** Write UpdTX Resource: pluralpo.test ***
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    WritePOFiles:	Lang		IDEntry		ClassEntry
-2013-03-16 10:52+0000	INFO	    --------------------------------------------------------------
-2013-03-16 10:52+0000	INFO	    			en		5		6
+2013-03-16 13:02+0000	INFO	********************************************
+2013-03-16 13:02+0000	INFO	WRITING MERGED AND TXUPDATE RESOURCES TO HDD
+2013-03-16 13:02+0000	INFO	********************************************
+2013-03-16 13:02+0000	INFO	Deleting merged language file directory
+
+2013-03-16 13:02+0000	INFO	ProjHandler: *** Write Merged Resource: pluralpo.test ***
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    WritePOFiles:	Lang		IDEntry		ClassEntry
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		4
+2013-03-16 13:02+0000	INFO	    			hu		5		4
+2013-03-16 13:02+0000	INFO	    			ru		1		2
+
+2013-03-16 13:02+0000	INFO	ProjHandler: *** Write Merged Resource: pluralpo.test_gotham ***
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    WritePOFiles:	Lang		IDEntry		ClassEntry
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		4
+2013-03-16 13:02+0000	INFO	    			hu		5		4
+2013-03-16 13:02+0000	INFO	Deleting tx update language file directory
+
+2013-03-16 13:02+0000	INFO	ProjHandler: *** Write UpdTX Resource: pluralpo.test ***
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    WritePOFiles:	Lang		IDEntry		ClassEntry
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		6
+
+2013-03-16 13:02+0000	INFO	ProjHandler: *** Write UpdTX Resource: pluralpo.test_gotham ***
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    WritePOFiles:	Lang		IDEntry		ClassEntry
+2013-03-16 13:02+0000	INFO	    --------------------------------------------------------------
+2013-03-16 13:02+0000	INFO	    			en		5		6
