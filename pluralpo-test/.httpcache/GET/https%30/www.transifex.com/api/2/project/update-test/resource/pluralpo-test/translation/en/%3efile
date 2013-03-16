@@ -1,0 +1,76 @@
+# XBMC Media Center language file
+# Addon Name: PluralPO-test
+# Addon id: skin.pluralpo-test
+# Addon Provider: alanwww1
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: update-test\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2013-03-16 10:48+0000\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/update-test/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "Project Mayhem III High Definition skin by Jezz_X"
+msgstr "Project Mayhem III High Definition skin by Jezz_X"
+
+msgctxt "Addon Description"
+msgid ""
+"PM3.HD (Project Mayhem III High Definition) was based on the design of the "
+"old default skin Project Mayhem III by Chokemaniac.[CR][CR]This skin was "
+"created as XBMC moved off the xbox platform onto PC's.   People were wanting"
+" to use XBMC on High Definition TV in 720p and 1080p and it came to my "
+"attention that the old default Project Mayhem III skin looked great on the "
+"low resolution xbox but looked very blocky when scaled up to Hi definition."
+"    So PM3.HD was created to fill the gap for High definition users with our"
+" first official \"stable\" release of XBMC for Linux, OSX and Windows."
+msgstr "PM3.HD (Project Mayhem III High Definition) was based on the design of the old default skin Project Mayhem III by Chokemaniac.[CR][CR]This skin was created as XBMC moved off the xbox platform onto PC's.   People were wanting to use XBMC on High Definition TV in 720p and 1080p and it came to my attention that the old default Project Mayhem III skin looked great on the low resolution xbox but looked very blocky when scaled up to Hi definition.    So PM3.HD was created to fill the gap for High definition users with our first official \"stable\" release of XBMC for Linux, OSX and Windows."
+
+msgctxt "#31000"
+msgid "Volume muted"
+msgstr "Volume muted"
+
+msgctxt "#31001"
+msgid "Working..."
+msgstr "Working..."
+
+msgctxt "#31002"
+msgid "Movie"
+msgid_plural "Movies"
+msgstr[0] "Movie"
+msgstr[1] "Movies"
+
+msgctxt "#31003"
+msgid "Up One Level"
+msgstr "Up One Level"
+
+msgctxt "#31004"
+msgid "Previous Window"
+msgstr "Previous Window"
+
+msgctxt "Label"
+msgid "Genre:"
+msgid_plural "Genres:"
+msgstr[0] "Genre:"
+msgstr[1] "Genres:"
+
+msgctxt "Label"
+msgid "Mood:"
+msgid_plural "Moods:"
+msgstr[0] "Mood:"
+msgstr[1] "Moods:"
+
+msgctxt "Label"
+msgid "Born:"
+msgstr "Born:"
+
+msgctxt "Label"
+msgid "Formed:"
+msgstr "Formed:"

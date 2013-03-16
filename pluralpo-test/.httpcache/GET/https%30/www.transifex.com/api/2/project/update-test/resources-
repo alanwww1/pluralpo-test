@@ -1,0 +1,44 @@
+[
+    {
+        "category": "",
+        "i18n_type": "PO",
+        "source_language_code": "en",
+        "slug": "something-something",
+        "name": "something.something"
+    },
+    {
+        "category": null,
+        "i18n_type": "PO",
+        "source_language_code": "en",
+        "slug": "visualization-projectm",
+        "name": "visualization-projectm"
+    },
+    {
+        "category": null,
+        "i18n_type": "PO",
+        "source_language_code": "en",
+        "slug": "script-xbmc-subtitles",
+        "name": "script-xbmc-subtitles"
+    },
+    {
+        "category": null,
+        "i18n_type": "PO",
+        "source_language_code": "en",
+        "slug": "xbmc-core",
+        "name": "xbmc-core"
+    },
+    {
+        "category": null,
+        "i18n_type": "PO",
+        "source_language_code": "en",
+        "slug": "testplugin",
+        "name": "test.plugin"
+    },
+    {
+        "category": null,
+        "i18n_type": "PO",
+        "source_language_code": "en",
+        "slug": "pluralpo-test",
+        "name": "pluralpo-test"
+    }
+]
