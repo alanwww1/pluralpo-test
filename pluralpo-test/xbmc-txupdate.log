@@ -1,0 +1,30 @@
+XBMC-TXUPDATE v0.91 Logfile
+
+2013-03-16 10:48+0000	INFO	Root Directory: pluralpo-test/
+2013-03-16 10:48+0000	INFO	HTTPHandler: Succesfuly found the .passwsords.xml file: pluralpo-test/.passwords.xml
+2013-03-16 10:48+0000	INFO	HTTPHandler: found login credentials for website prefix: https://www.transifex.com/api/2/project/
+2013-03-16 10:48+0000	INFO	HTTPHandler: Cache directory set to: pluralpo-test/.httpcache
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: Succesfuly found the update.xml file in the specified project directory
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: Found projectname in xbmc-txupdate.xml file: update-test
+2013-03-16 10:48+0000	INFO	HTTPHandler: curlURLToCache finished with success from URL https://www.transifex.com/api/2/project/update-test/ to cachefile pluralpo-test/.httpcache/GET/https%30//www.transifex.com/api/2/project/update-test-, read filesize: 124bytes
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: Found http cache expire time in xbmc-txupdate.xml file: 99440
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: Found min completion percentage in xbmc-txupdate.xml file: 10%
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: No merged language file directory specified in xbmc-txupdate.xml file. Using default value: merged-langfiles
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: No temp tx update language file directory specified in xbmc-txupdate.xml file. Using default value: tempfiles_txupdate
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: Found support email address in xbmc-txupdate.xml file: alanwww1@xbmc.org
+2013-03-16 10:48+0000	INFO	UpdXMLHandler: found resource in update.xml file: pluralpo.test, Type: skin, SubDir: 
+2013-03-16 10:48+0000	INFO	HTTPHandler: curlURLToCache finished with success from URL https://raw.github.com/transifex/transifex/master/transifex/languages/fixtures/all_languages.json to cachefile pluralpo-test/.httpcache/GET/https%30//raw.github.com/transifex/transifex/master/transifex/languages/fixtures/all_languages.json, read filesize: 125044bytes
+2013-03-16 10:48+0000	INFO	LCodeHandler: Succesfully fetched 276 language codes from Transifex
+2013-03-16 10:48+0000	INFO	JSONHandler: found resource on Transifex server: something-something
+2013-03-16 10:48+0000	INFO	JSONHandler: found resource on Transifex server: visualization-projectm
+2013-03-16 10:48+0000	INFO	JSONHandler: found resource on Transifex server: script-xbmc-subtitles
+2013-03-16 10:48+0000	INFO	JSONHandler: found resource on Transifex server: xbmc-core
+2013-03-16 10:48+0000	INFO	JSONHandler: found resource on Transifex server: testplugin
+2013-03-16 10:48+0000	INFO	JSONHandler: Found 5 resources at Transifex server
+2013-03-16 10:48+0000	INFO	CProjectHandler::UploadTXUpdateFiles: Uploading resource: pluralpo.test, from langdir: pluralpo-test/tempfiles_txupdate/pluralpo.test//language/
+2013-03-16 10:48+0000	INFO	CProjectHandler::UploadTXUpdateFiles: No resource pluralpo.test exists on Transifex. Creating it now.
+2013-03-16 10:48+0000	INFO	CHTTPHandler::CreateNewResource finished with success for resource pluralpo-test from EN PO file pluralpo-test/tempfiles_txupdate/pluralpo.test//language/English/strings.po to URL https://www.transifex.com/api/2/project/update-test/resources/
+2013-03-16 10:48+0000	INFO	CProjectHandler::UploadTXUpdateFiles: Resource pluralpo.test was succesfully created with 11 English strings.
+2013-03-16 10:48+0000	INFO	HTTPHandler::PutFileToURL: Uploading file to Transifex: pluralpo-test/tempfiles_txupdate/pluralpo.test//language/Hungarian/strings.po
+2013-03-16 10:48+0000	INFO	HTTPHandler::curlFileToURL finished with success from File pluralpo-test/tempfiles_txupdate/pluralpo.test//language/Hungarian/strings.po to URL https://www.transifex.com/api/2/project/update-test/resource/pluralpo-test/translation/hu/
+2013-03-16 10:48+0000	INFO	HTTPHandler::PutFileToURL: File upload was successful so creating a copy at the .httpcache directory

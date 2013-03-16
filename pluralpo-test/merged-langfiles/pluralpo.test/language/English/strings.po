@@ -1,0 +1,59 @@
+# XBMC Media Center language file
+# Addon Name: PluralPO-test
+# Addon id: skin.pluralpo-test
+# Addon Provider: alanwww1
+msgid ""
+msgstr ""
+"Project-Id-Version: update-test\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/update-test/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#31000"
+msgid "Volume muted"
+msgstr ""
+
+msgctxt "#31001"
+msgid "Working..."
+msgstr ""
+
+msgctxt "#31002"
+msgid "Movie"
+msgid_plural "Movies"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "#31003"
+msgid "Up One Level"
+msgstr ""
+
+msgctxt "#31004"
+msgid "Previous Window"
+msgstr ""
+
+msgctxt "Label"
+msgid "Genre:"
+msgid_plural "Genres:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "Label"
+msgid "Mood:"
+msgid_plural "Moods:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "Label"
+msgid "Born:"
+msgstr ""
+
+msgctxt "Label"
+msgid "Formed:"
+msgstr ""

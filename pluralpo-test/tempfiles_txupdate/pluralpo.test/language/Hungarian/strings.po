@@ -1,0 +1,67 @@
+# XBMC Media Center language file
+# Addon Name: PluralPO-test
+# Addon id: skin.pluralpo-test
+# Addon Provider: alanwww1
+msgid ""
+msgstr ""
+"Project-Id-Version: update-test\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: Hungarian (http://www.transifex.com/projects/p/update-test/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "Project Mayhem III High Definition skin by Jezz_X"
+msgstr "PM3.HD skin (szerző: Jezz_X)"
+
+msgctxt "Addon Description"
+msgid "PM3.HD (Project Mayhem III High Definition) was based on the design of the old default skin Project Mayhem III by Chokemaniac.[CR][CR]This skin was created as XBMC moved off the xbox platform onto PC's.   People were wanting to use XBMC on High Definition TV in 720p and 1080p and it came to my attention that the old default Project Mayhem III skin looked great on the low resolution xbox but looked very blocky when scaled up to Hi definition.    So PM3.HD was created to fill the gap for High definition users with our first official \"stable\" release of XBMC for Linux, OSX and Windows."
+msgstr "PM3.HD (Project Mayhem III High Definition) egy régi alapskinre épül (Project Mayhem III, szerző: Chokemaniac).[CR][CR]Ez a skin akkor keletkezett amikor az XBMC átváltott a PC platforma, amikor a felhasználók a nagyfelbontású (720p, 1080p) TV készülékeiken akarták élvezni az XBMC-t. Ez volt az alapskin az első \"hivatalos\" stabil verzióban a Linux, Windows és OSX platformokon."
+
+msgctxt "#31000"
+msgid "Volume muted"
+msgstr "Hangerő némítva"
+
+msgctxt "#31001"
+msgid "Working..."
+msgstr "Dolgozom..."
+
+msgctxt "#31002"
+msgid "Movie"
+msgid_plural "Movies"
+msgstr[0] "Film"
+msgstr[1] "Filmek"
+
+msgctxt "#31003"
+msgid "Up One Level"
+msgstr "Egy szintel feljebb"
+
+msgctxt "#31004"
+msgid "Previous Window"
+msgstr "Előző ablak"
+
+msgctxt "Label"
+msgid "Genre:"
+msgid_plural "Genres:"
+msgstr[0] "Műfaj"
+msgstr[1] "Műfajok"
+
+msgctxt "Label"
+msgid "Mood:"
+msgid_plural "Moods:"
+msgstr[0] "Hangulat"
+msgstr[1] "Hangulatok"
+
+msgctxt "Label"
+msgid "Born:"
+msgstr "Született:"
+
+msgctxt "Label"
+msgid "Formed:"
+msgstr "Fomált:"
