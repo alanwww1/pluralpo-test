@@ -2,7 +2,7 @@
 <resources projectname="update-test" support_email="alanwww1@xbmc.org" http_cache_expire="99440" min_completion="10%">
     <resource name="pluralpo.test">
         <TXname>pluralpo-test</TXname>
-        <upstreamURL></upstreamURL>
+        <upstreamURL>https://raw.github.com/alanwww1/pluralpo-test/master/pluralpo-test/upstream/</upstreamURL>
         <upstreamLangs>github_all</upstreamLangs>
         <resourceType>skin</resourceType>
         <resourceSubdir></resourceSubdir>
